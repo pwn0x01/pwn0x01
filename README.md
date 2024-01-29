@@ -2,7 +2,7 @@
 
 
 - I like open source 🏴‍☠️🆓
-- I like developing offensive security tools 🔧🟥
+- I like developing offensive security tools ⚔️🟥
 
 Follow me on social media! 💻🌐<br>
 Youtube: @pwn0ne<br>
