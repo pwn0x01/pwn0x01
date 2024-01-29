@@ -1,7 +1,7 @@
 ### Welcome, I am a Brazilian developer & bug hunter 🇧🇷🪲
 
 
-- I like open source 🏴‍☠️🆓
+- Open source enthusiast 🏴‍☠️🆓
 - I like developing offensive security tools ⚔️🟥
 
 Follow me on social media! 💻🌐<br>
